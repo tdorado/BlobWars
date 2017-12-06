@@ -1,1 +1,4 @@
-Repositories
+BlobWars
+
+To compile use:
+makefile all
